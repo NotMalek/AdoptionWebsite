@@ -1,0 +1,6 @@
+1:aaa:Cat:Bulldog:Young:Male:Dog:Yes
+2:aaa:Cat:Bulldog:Young:Male:Cat:Yes
+3:aaa:Cat:Bulldog:Young:Male:DogCat:Yes
+4:aaa:Cat:Bulldog:Young:Male:neither:Yes
+5:aaa:Cat:Bulldog:Young:Male:neither:Yes
+6:aaa:Cat:Bulldog:Young:Male:DogCat:Yes
