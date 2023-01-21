@@ -1,5 +1,3 @@
-# AdoptionWebsite
-
 <html>
  <body>
     <h1>Professional Website with Consistent Styling</h1>
